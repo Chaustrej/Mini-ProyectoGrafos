@@ -1,5 +1,7 @@
-# Proyecto de Grafos (EDD)
+EALIZADO POR----- Juan Chaustre 30.886.168, Luis Barrios 31.552.124
 
+
+# Proyecto de Grafos (EDD)
 Este proyecto implementa una **librería de grafos** en C++ organizada con el patrón **Modelo–Controlador–Vista (MVC)** y una pequeña **aplicación de consola** que permite crear un grafo, añadir vértices y aristas, y ejecutar varios algoritmos clásicos.
 
 - `model/`: representación interna del grafo y operaciones básicas (CRUD de vértices/aristas).

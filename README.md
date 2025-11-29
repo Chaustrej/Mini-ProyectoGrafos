@@ -1,4 +1,4 @@
-EALIZADO POR----- Juan Chaustre 30.886.168, Luis Barrios 31.552.124
+REALIZADO POR----- Juan Chaustre 30.886.168, Luis Barrios 31.552.124
 
 
 # Proyecto de Grafos (EDD)
